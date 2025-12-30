@@ -37,7 +37,7 @@
 
 * 🏗 Currently working on *AI-powered applications* and *Machine Learning* projects
 * 🧡 Open to collaborate on *AI/ML* and *Data Science* projects  
-* 🗓 *2025 Goals:* Master Deep Learning & contribute to open source
+* 🗓 *2026 Goals:*full stack  Ai Engineer & contribute to open source
 * 💡 Passionate about *building intelligent solutions* and *learning new technologies*
 
 ---
